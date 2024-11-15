@@ -63,7 +63,7 @@ python shell_emulator.py
 Для проверки корректности работы были написаны автоматические тесты. Результаты:
 
 python build.py
-# Выберите "3" для запуска тестов
+Выберите "3" для запуска тестов
 
 test_cd_command (tests.test_shell_emulator.TestShellEmulator) ... OK
 test_ls_command (tests.test_shell_emulator.TestShellEmulator) ... OK
